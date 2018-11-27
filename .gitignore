@@ -3,3 +3,5 @@
 /.cache
 /examples/*/node_modules
 /examples/*/dist*
+/**/*.js.map
+/**/*.js
