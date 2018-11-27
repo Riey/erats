@@ -1,0 +1,34 @@
+{
+  "name": "erajs",
+  "author": "Riey",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "license": "GPL-3.0",
+  "version": "1.0.0",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riey/erajs.git"
+  },
+  "keywords": [
+    "era",
+    "erajs"
+  ],
+  "bugs": {
+    "url": "https://github.com/Riey/erajs/issues"
+  },
+  "homepage": "https://github.com/Riey/erajs#readme",
+  "description": "",
+  "dependencies": {
+    "await-timeout": "^0.3.0",
+    "babel-polyfill": "^6.26.0",
+    "parcel-bundler": "^1.10.3",
+    "typescript": "^3.1.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
