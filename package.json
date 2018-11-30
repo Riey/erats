@@ -5,7 +5,7 @@
     "build": "npx tsc"
   },
   "license": "GPL-3.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "directories": {
     "example": "examples"
   },
@@ -23,9 +23,13 @@
   "homepage": "https://github.com/Riey/erajs#readme",
   "description": "",
   "dependencies": {
+
+  },
+  "devDependencies": {
     "typescript": "^3.2.1"
   },
   "files": [
+    "lib",
     "src",
     "tsconfig.json"
   ]
