@@ -1,7 +1,9 @@
 /node_modules
 /dist*
+/lib
 /.cache
 /examples/*/node_modules
 /examples/*/dist*
 /**/*.js.map
 /**/*.js
+/.idea
