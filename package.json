@@ -1,5 +1,5 @@
 {
-  "name": "erajs",
+  "name": "erats",
   "author": "Riey",
   "scripts": {
     "build": "npx tsc"
