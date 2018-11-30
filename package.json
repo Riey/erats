@@ -4,8 +4,10 @@
   "scripts": {
     "build": "npx tsc"
   },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "license": "GPL-3.0",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "directories": {
     "example": "examples"
   },
