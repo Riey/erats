@@ -14,9 +14,9 @@ export class InputRequest {
 export type InputResponse = undefined | null | number | string;
 
 export enum ConsoleLineAlignment {
-    Left,
-    Center,
-    Right,
+    Left = "left",
+    Center = "center",
+    Right = "right",
 }
 
 export interface EraConsole {
