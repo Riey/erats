@@ -1,8 +1,12 @@
 export enum InputRequestType {
-    AnyKey,
-    EnterKey,
-    Int,
-    Str,
+    AnyKey = "anyKey",
+    EnterKey = "enterKey",
+    Int = "int",
+    Str = "str",
+    Date = "date",
+    DateTime = "datetime",
+    Time = "time",
+    Color = "color",
 }
 
 export class InputRequest {
